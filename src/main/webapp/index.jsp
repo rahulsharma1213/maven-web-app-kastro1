@@ -7,7 +7,8 @@
 <a href="https://ashokitech.com/online-training-schedules">Click Here To See Ashok IT Training Schedules</a>
   
   <h2> Call Us : + 8377823154</h2>
-  
+  <h2> gmail.id : rahul.sharma902914@gmail.com</h2>
+
   <h3> Ofc Location : Ameerpet, Hyderbad </h3>
 
 </body>
